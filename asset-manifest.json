@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Higher_Order_Functions_React/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Higher_Order_Functions_React/static/js/main.53ac2986.chunk.js",
+    "main.js.map": "/Higher_Order_Functions_React/static/js/main.53ac2986.chunk.js.map",
+    "runtime-main.js": "/Higher_Order_Functions_React/static/js/runtime-main.864d4b85.js",
+    "runtime-main.js.map": "/Higher_Order_Functions_React/static/js/runtime-main.864d4b85.js.map",
+    "static/js/2.ff20b45d.chunk.js": "/Higher_Order_Functions_React/static/js/2.ff20b45d.chunk.js",
+    "static/js/2.ff20b45d.chunk.js.map": "/Higher_Order_Functions_React/static/js/2.ff20b45d.chunk.js.map",
+    "static/js/3.56672684.chunk.js": "/Higher_Order_Functions_React/static/js/3.56672684.chunk.js",
+    "static/js/3.56672684.chunk.js.map": "/Higher_Order_Functions_React/static/js/3.56672684.chunk.js.map",
+    "index.html": "/Higher_Order_Functions_React/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Higher_Order_Functions_React/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ff20b45d.chunk.js.LICENSE.txt": "/Higher_Order_Functions_React/static/js/2.ff20b45d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.864d4b85.js",
+    "static/js/2.ff20b45d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.53ac2986.chunk.js"
+  ]
+}
